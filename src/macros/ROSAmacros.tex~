@@ -1,11 +1,11 @@
 %-----------------------------------------------------------------------
 %
 %   UFRJ  - Universidade Federal do Rio de Janeiro
-%   COPPE - Coordena√ß√£o dos Programas de P√≥s-gradua√ß√£o em Engenharia
-%   PEE   - Programa de Engenharia El√©trica
+%   COPPE - CoordenaÁ„o dos Programas de PÛs-graduaÁ„o em Engenharia
+%   PEE   - Programa de Engenharia ElÈtrica
 %
 %
-%   Projeto ROSA - Rob√¥ para opera√ß√£o de stoplogs alagados
+%   Projeto ROSA - RobÙ para operaÁ„o de stoplogs alagados
 %
 %   Macros
 %                                                         Ramon R. Costa
@@ -53,11 +53,11 @@
 }
 
 %---------------------------------------------------------- Useful -----
-\def\pee{Programa de Engenharia El√©trica\xspace}
-\def\PEE{PROGRAMA DE ENGENHARIA EL√âTRICA\xspace}
+\def\pee{Programa de Engenharia ElÈtrica\xspace}
+\def\PEE{PROGRAMA DE ENGENHARIA EL…TRICA\xspace}
 
-\def\coppe{Coordena√ß√£o dos Programas de P√≥s--Gradua√ß√£o em Engenharia\xspace}
-\def\COPPE{COORDENA√á√ÉO DOS PROGRAMAS DE P√ìS--GRADUA√á√ÉO EM ENGENHARIA\xspace}
+\def\coppe{CoordenaÁ„o dos Programas de PÛs--GraduaÁ„o em Engenharia\xspace}
+\def\COPPE{COORDENA«√O DOS PROGRAMAS DE P”S--GRADUA«√O EM ENGENHARIA\xspace}
 
 \def\ct{Centro de Tecnologia\xspace}
 \def\CT{CENTRO DE TECNOLOGIA\xspace}
@@ -68,8 +68,8 @@
 \def\rrc{Ramon Romankevicius Costa\xspace}
 \def\RRC{RAMON ROMANKEVICIUS COSTA\xspace}
 
-\def\gscar{Gru\-po de Si\-mu\-la\-√ß√£o e Con\-tro\-le em Auto\-ma\-√ß√£o e Ro\-b√≥\-ti\-ca\xspace}
-\def\GSCAR{GRUPO DE SIMULA√á√ÉO E CONTROLE EM AUTOMA√á√ÉO e ROB√ìTICA\xspace}
+\def\gscar{Gru\-po de Si\-mu\-la\-Á„o e Con\-tro\-le em Auto\-ma\-Á„o e Ro\-bÛ\-ti\-ca\xspace}
+\def\GSCAR{GRUPO DE SIMULA«√O E CONTROLE EM AUTOMA«√O e ROB”TICA\xspace}
 
 %------------------------------------------------------------ ROSA -----
 \def\ROSA{\texthfg{ROSA}}
@@ -107,26 +107,25 @@
   \vspace*{0.30mm}
 }
 
-\newcommand{\vu}[2]{ %Utiliza√ß√£o: \vu{valor}{unidade}
+\newcommand{\vu}[2]{ %UtilizaÁ„o: \vu{valor}{unidade}
   \textcolor{darkblue}{#1$\,#2$}\xspace
 }
 
 \def\alana{Alana Monteiro\xspace}
-\def\antonio{Ant√¥nio\xspace}
+\def\antonio{AntÙnio\xspace}
 \def\jacoud{Alessandro Jacoud\xspace}
-\def\andre{Andr√© Figueir√≥\xspace}
+\def\andre{AndrÈ FigueirÛ\xspace}
 \def\breno{Breno Bellinati de Carvalho\xspace}
 \def\elael{Eduardo Elael\xspace}
-\def\gabriel{Gabriel Alc√¢ntara\xspace}
+\def\gabriel{Gabriel Alc‚ntara\xspace}
 \def\gizele{Gizele Ferreira da Silva\xspace}
-\def\julia{J√∫lia Campana\xspace}
+\def\julia{J˙lia Campana\xspace}
 \def\patrick{Patrick Paranhos\xspace}
 \def\rafael{Rafael Oliveira\xspace}
 \def\ramonC{Ramon Campos\xspace}
 \def\ramon{Ramon Romankevicius\xspace}
 \def\renan{Renan Freitas\xspace}
 \def\sylvain{Sylvain Joyeux\xspace}
-\def\estevao{Estev√£o Fr√≥es Ferr√£o\xspace}
 
 \newcommand{\coordenador}{
   \vspace{1.5cm}
@@ -156,7 +155,7 @@
   \noindent\rule[0mm]{\textwidth}{0.1mm}
   {\scriptsize \sf
   \begin{minipage}{1.5cm}
-    Endere√ßo :
+    EndereÁo :
   \end{minipage}
   \begin{minipage}[t]{8.5cm}
     \rrc \\
