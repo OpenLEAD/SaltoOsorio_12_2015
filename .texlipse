@@ -1,0 +1,14 @@
+#TeXlipse project settings
+#Thu Jan 07 13:23:24 BRST 2016
+markTmpDer=true
+builderNum=2
+outputDir=
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=tmp
+mainTexFile=main.tex
+outputFile=osorio2015.pdf
+langSpell=pt
+markDer=true
+srcDir=src
